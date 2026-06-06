@@ -125,7 +125,7 @@ With 48% of users overweight or obese, Bellabeat Spring (smart water bottle) and
 
 Built in Tableau Desktop
 > 📊 Dashboard screenshot available in repository
-> ![Bellabeat Dashboard](bellabeat_dashboard.png)
+> ![Bellabeat Dashboard](bellabeat_dashboard.jpg)
 ---
 
 ## Project Structure
