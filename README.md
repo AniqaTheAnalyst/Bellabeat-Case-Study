@@ -123,10 +123,9 @@ With 48% of users overweight or obese, Bellabeat Spring (smart water bottle) and
 
 ## Dashboard
 
-Built in Tableau Public — featuring 6 KPI cards, activity analysis, user segmentation, device engagement, sleep analysis, and BMI distribution.
-
-> 📊 [View Interactive Dashboard](#) ← replace with your Tableau Public link
-
+Built in Tableau Desktop
+> 📊 Dashboard screenshot available in repository
+> ![Bellabeat Dashboard](bellabeat_dashboard.png)
 ---
 
 ## Project Structure
@@ -142,14 +141,3 @@ bellabeat-case-study/
     └── (link to Kaggle dataset)
 ```
 
----
-
-## About Me
-
-Fresh CSE graduate from Varendra University, Rajshahi, Bangladesh. First-author research publication on CNN-based melanoma detection (UCICS 2025). Actively seeking Data Analyst roles locally and remotely.
-
-[LinkedIn](#) · [Kaggle](#) · [GitHub](#)
-
----
-
-*Dataset: FitBit Fitness Tracker Data — CC0 Public Domain License*
